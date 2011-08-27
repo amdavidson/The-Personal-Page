@@ -1,0 +1,25 @@
+body { 
+  font: 16px/24px "Muli", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Helvetica, Arial, sans-serif;
+  color: #181818; 
+  -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+  -webkit-text-size-adjust: 100%;
+}
+
+h1 { 
+  color: #181818; 
+  font-family: "PT Sans Narrow", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 64px; line-height: 50px; margin-bottom: 14px; margin-top: 25px; font-weight: 700;
+}
+
+#breakout {
+  position:relative;
+  top:50px;
+  right:50px;
+  float:right;
+  width:400px;
+  background-color:rgba(255,255,255,0.5);
+  padding:15px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
+}
